@@ -33,7 +33,7 @@ button {
   cursor: pointer;
 }
 
-form {
+#form-habits {
   display: flex;
   padding: 0 48px;
 }
