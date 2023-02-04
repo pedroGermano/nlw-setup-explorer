@@ -33,6 +33,12 @@ button {
   cursor: pointer;
 }
 
+button:hover {
+  background: #8B5CF6;
+}
+
+
+
 #form-habits {
   display: flex;
   padding: 0 48px;
